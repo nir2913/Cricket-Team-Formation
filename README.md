@@ -1,4 +1,4 @@
-# Cricket-Formation
+# Cricket-Team-Formation
 ### [Dashboard ScreenShot]
 ![image](https://github.com/nir2913/Cricket-Team-Formation/blob/77bd90a924ebe10631ed3b09d243d9662cf842dc/final11.jpg)
 ![image](https://github.com/nir2913/Cricket-Team-Formation/blob/77bd90a924ebe10631ed3b09d243d9662cf842dc/analysis%20.jpg)
